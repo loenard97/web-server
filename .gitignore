@@ -1,1 +1,4 @@
 /target
+/html
+!/html/index.html
+!/html/404.html
